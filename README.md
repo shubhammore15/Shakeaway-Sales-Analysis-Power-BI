@@ -10,7 +10,7 @@ Shakeaway faced the challenge of understanding its sales dynamics in depth. The 
 
 ## Role
 
-My role in this project was as a Data Analyst. I was responsible for collating, processing, and analyzing Shakeaway's sales data, translating it into actionable insights through visual reporting.
+My role was responsible for collating, processing, and analyzing Shakeaway's sales data, translating it into actionable insights through visual reporting.
 
 ## Contribution
 
