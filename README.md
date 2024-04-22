@@ -1,5 +1,5 @@
 # Shakeaway Sales Analysis Project
-
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiODgyMTg5MzctOGViMS00ZmRlLWE3YWItYTI0NWVkN2Y2MWMyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 ## Introduction
 
 This project encapsulates a comprehensive sales analysis for Shakeaway, visualized through Power BI Desktop. The primary aim is to examine sales trends, customer behaviors, and product performance to drive informed business decisions.
